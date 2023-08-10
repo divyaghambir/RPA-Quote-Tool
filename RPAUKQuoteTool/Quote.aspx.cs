@@ -6609,6 +6609,7 @@ namespace RPADubaiQuoteTool
             {
                 lblVAT.Visible = false;
                 txtVAT.Visible = false;
+                string test = "github";
             }
         }
 
